@@ -1,5 +1,5 @@
 # Assignment on bike Sharing
-> It comtains assignment pdf & code in jupyter notebook of the same.
+> It contains assignment pdf & code in jupyter notebook of the same.
 
 
 ## Table of Contents
@@ -10,10 +10,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A model for bike sharing company.
+- Highlighting important features which gives insight about the buisness model.
 
 
 
